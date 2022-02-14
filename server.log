@@ -1,0 +1,19 @@
+[21:26:31] alt:V Server 9.5 (release)
+[21:26:31] Starting Minimal Issues Tracker on 0.0.0.0:7788
+[21:26:31] Loading resource Issues
+[21:26:31] Loaded resource Issues
+[21:26:31] Required server permissions:
+[21:26:31] Optional server permissions:
+[21:26:31] Starting HTTP server on 0.0.0.0:7788
+[21:26:31] Main thread started (ThreadId: 10316)
+[21:26:31] Colshape thread started (ThreadId: 32812)
+[21:26:31] EntityStreamer thread started (ThreadId: 31808)
+[21:26:31] Sync thread started (ThreadId: 32456)
+[21:26:31] Network thread started (ThreadId: 33552)
+[21:26:31] Console thread started (ThreadId: 32056)
+[21:26:31][Warning] Server started in debug mode
+[21:26:38] [Chat:MSG] Nightranger: test
+[21:26:38] [Chat:MSG] Nightranger: test
+[21:27:12] Stopping resource Issues
+[21:27:12] Stopped resource Issues
+[21:27:12] Server shutdown
